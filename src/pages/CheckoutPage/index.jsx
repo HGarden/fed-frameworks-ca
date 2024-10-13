@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import './checkoutPage.css';
+import './checkoutpage.css';
 
 
 function CheckoutPage() {
