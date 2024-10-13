@@ -37,3 +37,13 @@ npm instll
 npm run dev
 ```
 
+
+### Sources
+
+- https://www.youtube.com/watch?v=XxXyfkrP298& - Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications - 
+JavaScript Mastery
+- https://www.youtube.com/watch?v=oTIJunBa6MA& - React Router - Complete Tutorial - 
+Cosden Solutions
+- https://www.youtube.com/watch?v=AYO4qHAnLQI - Zustand Tutorial for Beginners - The Only Course You Will Ever Need - 
+Code Genix
+
