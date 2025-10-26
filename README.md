@@ -1,6 +1,8 @@
 # Noroff Javascript Frameworks Course Assignment
 ![pageIMG](https://github.com/user-attachments/assets/26fbebba-4d8f-4cc3-8676-5ee1d77db8df)
 
+## Live Link
+https://tourmaline-sunshine-7f38a3.netlify.app/
 ## Description
 In this assignment i have created a React + Vite web application. I decided to use Vite instead of CRA due to there being more up to date info online.
 
